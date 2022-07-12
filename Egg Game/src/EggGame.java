@@ -1,6 +1,6 @@
 /**
  * A clicking game which counts hits and missed shots and shows game over message if the missed
- * shots get to 5 nad for every hit, it adds a chick below the background.
+ * shots get to 5 and for every hit, it adds a chick below the background.
  */
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
