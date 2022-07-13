@@ -9,7 +9,6 @@ A mini game which the player has to click on the passing eggs.
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General Information
