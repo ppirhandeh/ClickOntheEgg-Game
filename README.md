@@ -19,27 +19,25 @@ A clicking java game which produces eggs across the screen and user should hit t
 ## Technologies Used
 -  Java
 -  JavaFx
--  PHP
--  SQL
--  Java Script
--  
+
 ## Screenshots
-![Example screenshot](./img/Documentation/breakpoints.png)
+![Example screenshot](/Egg%20Game/1.png)
+![Example screenshot](/Egg%20Game/2.png)
+
 
 ## Setup
-You can run this program on your local machine by opening the index.php file on a browser having all the files
+You can run this program on your local machine by running the project having the required libraries.
 
 
 ## Usage
-Website displays news and give the admin the ability to make changes using a username and a password.
-
+A mini game for entertainment
 
 ## Project Status
 Project is: Complete
 
 
 ## Room for Improvement
-- Adding a types to the users so each user would have different authorities to make changes on the website.
+- Working on the design of the chicks.
 
 ## Contact
 Created by Pouya Pirhandeh - feel free to contact me via email!
